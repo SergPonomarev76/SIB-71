@@ -154,7 +154,7 @@ hashcat [options] hash [dictionary]
 
 ![Подбираем пароль](pic/pic2.png)
 
-Для подбора пароля использовался файл ![Пароли](assets/100k-most-used-passwords-NCSC.txt)
+Для подбора пароля использовался файл [Пароли](assets/100k-most-used-passwords-NCSC.txt)
 
 ## Задача №2 - VeraCrypt
 
