@@ -73,7 +73,7 @@ Vlan    Mac Address       Type        Ports
    1    00d0.bc7d.4601    DYNAMIC     Fa0/24
 ````
 
-[Файл Cisco Packet Tracer] (files/cisco_p_t_1.pkt)
+[Файл Cisco Packet Tracer](files/cisco_p_t_1.pkt)
 
 
 ## Задание 1.2.
