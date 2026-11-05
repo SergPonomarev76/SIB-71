@@ -58,7 +58,7 @@ Cisco Packet Tracer.
 
 ![](files/image08.png)
 Отображение таблицы коммутации
-
+'''
 Switch#show mac-address-table
           Mac Address Table
 -------------------------------------------
@@ -70,8 +70,9 @@ Vlan    Mac Address       Type        Ports
    1    0060.2f97.18c7    DYNAMIC     Fa0/1
    1    00d0.58d1.3d69    DYNAMIC     Fa0/2
    1    00d0.bc7d.4601    DYNAMIC     Fa0/24
+'''
 
-![Файл Cisco Packet Tracer](files/cisco_p_t_1.pkt)
+Файл Cisco Packet Tracer (files/cisco_p_t_1.pkt)
 
 
 ## Задание 1.2.
